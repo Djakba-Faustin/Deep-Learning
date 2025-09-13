@@ -1,5 +1,6 @@
 
-# Deep Learning is a specialized branch of machine learning that utilizes artificial neural networks with multiple layers (deep neural networks) to learn and make decisions. Here are the key aspects:
+# Deep Learning 
+is a specialized branch of machine learning that utilizes artificial neural networks with multiple layers (deep neural networks) to learn and make decisions. Here are the key aspects:
 
 # Neural Networks:
 Composed of layers of interconnected nodes (neurons)
@@ -14,13 +15,16 @@ Each connection has weights that are adjusted during training
 - RNNs (Recurrent Neural Networks): For sequential data like time series or text
 Transformers: For natural language processing (e.g., BERT, GPT)
 ## Applications:
--Computer Vision (image recognition, object detection)
--Natural Language Processing (translation, chatbots)
--Speech Recognition
--Autonomous Vehicles
--Healthcare (disease detection, drug discovery)
+- Computer Vision (image recognition, object detection)
+- Natural Language Processing (translation, chatbots)
+- Speech Recognition
+- Autonomous Vehicles
+- Healthcare (disease detection, drug discovery)
 # Key Frameworks:
-TensorFlow,PyTorch,Keras,Yolo
+- TensorFlow
+- PyTorch,
+- Keras,
+- Yolo
 
 
 
