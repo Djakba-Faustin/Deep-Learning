@@ -5,15 +5,15 @@
 Composed of layers of interconnected nodes (neurons)
 Input layer → Hidden layers → Output layer
 Each connection has weights that are adjusted during training
-Key Concepts:
+## Key Concepts:
 -Backpropagation: Algorithm for training neural networks by minimizing loss
 -Activation Functions: Non-linear functions (ReLU, Sigmoid, Tanh) that introduce non-linearity
 -Gradient Descent: Optimization algorithm to minimize the loss function
-# Common Architectures:
+## Common Architectures:
 -CNNs (Convolutional Neural Networks): For image and video processing
 -RNNs (Recurrent Neural Networks): For sequential data like time series or text
 Transformers: For natural language processing (e.g., BERT, GPT)
-# Applications:
+## Applications:
 -Computer Vision (image recognition, object detection)
 -Natural Language Processing (translation, chatbots)
 -Speech Recognition
