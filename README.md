@@ -291,11 +291,9 @@ This solution notebook demonstrates the complete implementation of a neural netw
 - **Real-time monitoring**: Accuracy tracking during training
 
 
-[1 tool called]
 
 # Summary
-
-I've created comprehensive reports for all five Jupyter notebooks in your workspace. Here's a brief overview of what each notebook covers:
+Here's a brief overview of what each notebook covers:
 
 ## 1. **Practical Convolutional Neural Networks**
 - Introduction to CNNs using CIFAR-10 dataset
